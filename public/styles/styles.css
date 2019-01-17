@@ -13,6 +13,9 @@
 
 html {
   font-size: 62.5%;
+  background: url(./note_paper_texture.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 body {
